@@ -1,0 +1,10 @@
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ConsoleApp1\obj\Debug\LibraryMenu.csprojAssemblyReference.cache
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ConsoleApp1\obj\Debug\LibraryMenu.csproj.CoreCompileInputs.cache
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ConsoleApp1\obj\Debug\LibraryMenu.csproj.CopyComplete
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ConsoleApp1\bin\Debug\LibraryMenu.exe.config
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ConsoleApp1\bin\Debug\LibraryMenu.exe
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ConsoleApp1\bin\Debug\LibraryMenu.pdb
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary.dll
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary.pdb
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ConsoleApp1\obj\Debug\LibraryMenu.exe
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ConsoleApp1\obj\Debug\LibraryMenu.pdb

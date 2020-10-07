@@ -1,0 +1,2 @@
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\lyphu\OneDrive - Queensland University of Technology\Bachelor\Sem 1 2020\CAB301\Assignment\LibrarySoftware\ConsoleApp1\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
